@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ウェルテル",
+  "base_artist": "HALVES",
+  "createdAt": "2025-12-03T04:59:36.426869Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウェルテル / HALVES（Music Video）",
+      "artist": "HALVES",
+      "has_synced": false,
+      "path": "select/01_ウェルテル___HALVES(Music_Video)_HALVES.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウェルテル",
+      "artist": "HALVES",
+      "has_synced": true,
+      "path": "select/02_ウェルテル_HALVES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウェルテル - Werther",
+      "artist": "HALVES",
+      "has_synced": true,
+      "path": "select/03_ウェルテル_-_Werther_HALVES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウェルテル",
+      "artist": "HALVES",
+      "has_synced": false,
+      "path": "select/pl_01_ウェルテル_HALVES.txt"
+    }
+  ]
+}
